@@ -1,0 +1,24 @@
+dimension_key,label
+housing_cost,Housing Cost
+housing_choice,Housing Choice
+daily_services,Daily Services
+healthcare,Healthcare
+digital,Digital
+rail,Rail
+road,Road
+airport,Airport
+family_network,Family Network
+walking,Walking
+greenspace,Greenspace
+waterside,Waterside
+climate,Climate
+terrain,Terrain
+food,Food
+culture,Culture
+learning,Learning
+community,Community
+heritage,Heritage
+independence,Independence
+pace,Pace
+safety,Safety
+future_fit,Future Fit

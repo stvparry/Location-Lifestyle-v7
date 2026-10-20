@@ -1,0 +1,201 @@
+place_id,name,canonical_name,county_area,region,country,latitude,longitude,importance_tier,importance_rank,verification_status,coordinate_precision,housing_cost,housing_choice,daily_services,healthcare,digital,rail,road,airport,family_network,walking,greenspace,waterside,climate,terrain,food,culture,learning,community,heritage,independence,pace,safety,future_fit
+1,Marlow,Marlow,Buckinghamshire,South East,United Kingdom,51.572,-0.777,A,1,core_checked,rounded_town_centre,4,6,9,6,4,9,4,6,4,6,7,6,8,5,6,8,9,5,7,9,9,7,6
+2,Beaconsfield,Beaconsfield,Buckinghamshire,South East,United Kingdom,51.61,-0.644,A,2,core_checked,rounded_town_centre,5,6,7,4,4,9,8,6,8,5,6,5,4,5,4,7,5,5,4,7,9,6,5
+3,Amersham,Amersham,Buckinghamshire,South East,United Kingdom,50.8108,-0.3625,A,3,county_checked_coordinate_pending,regional_seed_point,4,5,7,4,4,9,7,4,7,5,8,5,5,5,6,8,6,6,5,6,5,6,9
+4,Wendover,Wendover,Buckinghamshire,South East,United Kingdom,51.9052,0.485,A,4,county_checked_coordinate_pending,regional_seed_point,7,6,5,4,7,6,5,4,6,8,6,5,5,8,4,8,9,5,6,6,8,4,4
+5,Great Missenden,Great Missenden,Buckinghamshire,South East,United Kingdom,51.2032,-1.2775,A,5,county_checked_coordinate_pending,regional_seed_point,9,5,4,4,5,8,5,4,7,7,9,6,9,9,7,6,5,5,6,4,6,9,7
+6,Princes Risborough,Princes Risborough,Buckinghamshire,South East,United Kingdom,50.6416,-1.2275,A,6,county_checked_coordinate_pending,regional_seed_point,6,8,4,4,4,7,5,4,8,6,8,4,7,5,6,6,8,8,4,7,5,9,7
+7,Gerrards Cross,Gerrards Cross,Buckinghamshire,South East,United Kingdom,51.6622,-0.725,A,7,county_checked_coordinate_pending,regional_seed_point,9,4,5,6,4,7,6,7,5,8,4,8,6,6,7,6,4,4,6,8,7,5,9
+8,Buckingham,Buckingham,Buckinghamshire,South East,United Kingdom,51.2788,0.4725,A,8,county_checked_coordinate_pending,regional_seed_point,7,4,4,5,9,6,8,9,9,8,6,6,9,9,9,9,8,9,7,9,6,9,6
+9,Olney,Olney,Buckinghamshire,South East,United Kingdom,51.9034,-0.1575,A,9,county_checked_coordinate_pending,regional_seed_point,4,9,6,8,8,7,5,7,8,4,4,8,6,9,4,5,8,4,9,5,6,6,7
+10,Cookham,Cookham,Berkshire,South East,United Kingdom,51.9376,-0.1675,A,10,county_checked_coordinate_pending,regional_seed_point,4,5,7,6,8,5,6,5,6,5,9,8,4,7,5,9,8,5,6,5,5,6,9
+11,Windsor,Windsor,Berkshire,South East,United Kingdom,50.3842,-0.6525,A,11,county_checked_coordinate_pending,regional_seed_point,4,4,9,5,6,4,4,6,4,8,6,6,6,4,9,9,5,5,4,5,7,6,9
+12,Newbury,Newbury,Berkshire,South East,United Kingdom,51.401,-1.324,A,12,core_checked,rounded_town_centre,5,5,7,7,4,7,9,9,8,7,6,9,7,5,7,4,9,9,8,7,8,8,9
+13,Hungerford,Hungerford,Berkshire,South East,United Kingdom,51.416,-1.516,A,13,core_checked,rounded_town_centre,7,6,5,5,4,8,5,5,4,6,6,7,8,7,9,7,7,8,9,5,9,9,5
+14,Wokingham,Wokingham,Berkshire,South East,United Kingdom,51.871,-1.0725,A,14,county_checked_coordinate_pending,regional_seed_point,9,5,7,8,4,6,6,6,4,9,8,7,6,8,4,5,8,7,9,8,7,7,6
+15,Maidenhead,Maidenhead,Berkshire,South East,United Kingdom,50.449,0.0825,A,15,county_checked_coordinate_pending,regional_seed_point,5,4,7,4,4,7,7,9,9,6,4,9,6,7,4,9,8,9,5,5,8,8,7
+16,Eton,Eton,Berkshire,South East,United Kingdom,50.4904,-1.6475,A,16,county_checked_coordinate_pending,regional_seed_point,9,7,9,7,4,8,5,5,9,6,7,8,8,5,9,5,5,4,5,5,7,4,8
+17,Henley-on-Thames,Henley-on-Thames,Oxfordshire,South East,United Kingdom,51.536,-0.903,A,17,core_checked,rounded_town_centre,4,9,5,6,5,8,8,8,6,5,9,4,4,6,9,7,8,7,4,5,8,7,9
+18,Wallingford,Wallingford,Oxfordshire,South East,United Kingdom,51.599,-1.125,A,18,core_checked,rounded_town_centre,5,4,5,6,9,9,8,8,5,4,8,5,9,5,4,5,5,6,8,7,7,8,4
+19,Thame,Thame,Oxfordshire,South East,United Kingdom,51.439,0.1975,A,19,county_checked_coordinate_pending,regional_seed_point,9,8,5,8,6,8,6,5,5,5,4,8,4,6,5,8,9,7,9,4,5,8,9
+20,Watlington,Watlington,Oxfordshire,South East,United Kingdom,51.4426,-1.8175,A,20,county_checked_coordinate_pending,regional_seed_point,7,6,8,6,9,4,8,6,8,4,7,9,5,4,9,4,9,6,7,5,7,4,8
+21,Woodstock,Woodstock,Oxfordshire,South East,United Kingdom,51.169,-0.9,A,21,county_checked_coordinate_pending,regional_seed_point,7,7,6,4,5,8,8,7,4,6,4,6,7,8,4,6,5,9,7,4,6,7,4
+22,Burford,Burford,Oxfordshire,South East,United Kingdom,51.2122,-1.225,A,22,county_checked_coordinate_pending,regional_seed_point,5,5,4,8,9,6,4,8,5,9,9,8,8,8,4,6,6,4,6,6,7,4,6
+23,Chipping Norton,Chipping Norton,Oxfordshire,South East,United Kingdom,51.6172,-0.2175,A,23,county_checked_coordinate_pending,regional_seed_point,4,5,6,4,4,9,7,4,4,9,9,9,8,4,6,4,9,9,9,6,8,6,8
+24,Oxford,Oxford,Oxfordshire,South East,United Kingdom,51.752,-1.258,A,24,core_checked,rounded_town_centre,6,8,7,9,5,9,5,8,8,6,4,4,5,4,5,6,8,6,4,9,9,8,5
+25,Witney,Witney,Oxfordshire,South East,United Kingdom,50.494,-1.365,A,25,county_checked_coordinate_pending,regional_seed_point,6,9,5,8,8,4,7,8,9,9,8,5,5,6,6,4,8,5,5,6,6,6,6
+26,Abingdon,Abingdon,Oxfordshire,South East,United Kingdom,50.8216,-1.9575,A,26,county_checked_coordinate_pending,regional_seed_point,9,6,7,5,5,7,5,9,8,6,6,5,7,7,6,5,9,7,6,7,6,9,4
+27,St Albans,St Albans,Hertfordshire,East of England,United Kingdom,51.752,-0.336,A,27,core_checked,rounded_town_centre,9,4,5,9,9,8,8,9,7,8,6,6,6,6,8,6,5,7,5,4,5,7,8
+28,Harpenden,Harpenden,Hertfordshire,East of England,United Kingdom,51.5678,0.8075,A,28,county_checked_coordinate_pending,regional_seed_point,4,8,5,6,6,9,5,8,9,6,5,8,5,9,8,5,7,6,4,9,9,8,5
+29,Berkhamsted,Berkhamsted,Hertfordshire,East of England,United Kingdom,52.0466,1.75,A,29,county_checked_coordinate_pending,regional_seed_point,7,6,6,7,5,7,4,6,7,6,9,5,9,7,7,8,4,6,5,6,8,4,9
+30,Tring,Tring,Hertfordshire,East of England,United Kingdom,51.6776,0.85,A,30,county_checked_coordinate_pending,regional_seed_point,9,9,7,7,8,9,8,9,9,8,4,6,8,5,4,6,9,8,5,9,8,8,5
+31,Hitchin,Hitchin,Hertfordshire,East of England,United Kingdom,52.979,-0.4,A,31,county_checked_coordinate_pending,regional_seed_point,8,4,7,9,9,8,6,5,6,5,8,6,9,4,7,8,8,9,8,6,5,5,8
+32,Hertford,Hertford,Hertfordshire,East of England,United Kingdom,52.9862,0.54,A,32,county_checked_coordinate_pending,regional_seed_point,8,4,7,8,4,7,7,8,6,5,4,9,5,7,5,7,6,9,5,8,9,6,7
+33,Saffron Walden,Saffron Walden,Essex,East of England,United Kingdom,52.8422,1.0175,A,33,county_checked_coordinate_pending,regional_seed_point,7,4,6,4,9,8,7,5,7,8,5,9,4,5,4,9,4,8,9,4,8,9,7
+34,Maldon,Maldon,Essex,East of England,United Kingdom,52.8926,0.795,A,34,county_checked_coordinate_pending,regional_seed_point,7,7,5,4,8,6,5,5,4,5,7,5,8,9,7,8,9,8,8,7,9,5,5
+35,Dedham,Dedham,Essex,East of England,United Kingdom,51.7028,1.545,A,35,county_checked_coordinate_pending,regional_seed_point,7,7,9,9,5,8,4,9,7,6,7,4,8,6,4,9,9,7,4,7,9,5,9
+36,Leigh-on-Sea,Leigh-on-Sea,Essex,East of England,United Kingdom,52.07,-0.5075,A,36,county_checked_coordinate_pending,regional_seed_point,8,8,4,8,5,9,8,7,9,6,6,8,9,8,9,7,5,4,8,6,7,4,6
+37,Thaxted,Thaxted,Essex,East of England,United Kingdom,51.9098,1.2825,A,37,county_checked_coordinate_pending,regional_seed_point,7,7,8,9,7,4,8,4,6,9,9,6,4,7,9,5,8,6,4,6,8,6,4
+38,Epping,Epping,Essex,East of England,United Kingdom,52.727,1.13,A,38,county_checked_coordinate_pending,regional_seed_point,6,9,5,5,7,4,5,7,8,5,6,8,7,6,5,4,4,6,8,7,9,6,6
+39,Cambridge,Cambridge,Cambridgeshire,East of England,United Kingdom,52.195,0.131,A,39,core_checked,rounded_town_centre,4,5,7,4,7,7,8,6,8,4,5,9,7,7,6,4,9,4,7,9,5,5,6
+40,Ely,Ely,Cambridgeshire,East of England,United Kingdom,52.6406,1.4875,A,40,county_checked_coordinate_pending,regional_seed_point,9,8,4,5,7,7,7,6,7,5,7,8,5,5,5,8,9,7,7,4,7,7,6
+41,St Ives (Cambridgeshire),St Ives,Cambridgeshire,East of England,United Kingdom,53.1086,0.14,A,41,county_checked_coordinate_pending,regional_seed_point,8,6,5,4,5,8,7,4,8,7,4,4,6,4,9,8,6,8,4,5,9,6,5
+42,Huntingdon,Huntingdon,Cambridgeshire,East of England,United Kingdom,52.8746,1.7125,A,42,county_checked_coordinate_pending,regional_seed_point,7,4,6,6,7,6,4,9,8,9,8,5,4,7,8,6,5,4,7,7,8,5,4
+43,Wisbech,Wisbech,Cambridgeshire,East of England,United Kingdom,51.8576,0.8825,A,43,county_checked_coordinate_pending,regional_seed_point,5,6,6,9,7,7,6,4,6,5,8,4,8,4,7,4,9,5,8,9,5,5,6
+44,Bury St Edmunds,Bury St Edmunds,Suffolk,East of England,United Kingdom,52.9124,1.2925,A,44,county_checked_coordinate_pending,regional_seed_point,6,7,6,4,8,4,5,7,9,6,6,5,8,4,8,6,8,8,5,9,8,8,9
+45,Woodbridge,Woodbridge,Suffolk,East of England,United Kingdom,52.9322,1.925,A,45,county_checked_coordinate_pending,regional_seed_point,5,6,9,5,6,7,6,7,4,5,9,7,5,9,7,4,7,6,7,6,8,4,5
+46,Aldeburgh,Aldeburgh,Suffolk,East of England,United Kingdom,51.8828,0.1725,A,46,county_checked_coordinate_pending,regional_seed_point,9,9,9,8,9,4,9,5,9,9,9,7,9,9,6,6,6,4,8,9,6,9,9
+47,Southwold,Southwold,Suffolk,East of England,United Kingdom,51.3986,0.3875,A,47,county_checked_coordinate_pending,regional_seed_point,8,4,7,5,9,4,5,9,7,8,4,5,7,6,7,8,6,9,8,4,8,7,9
+48,Lavenham,Lavenham,Suffolk,East of England,United Kingdom,52.1618,-0.3425,A,48,county_checked_coordinate_pending,regional_seed_point,6,7,5,9,4,7,6,8,8,8,8,4,8,9,6,8,8,4,6,8,7,6,7
+49,Framlingham,Framlingham,Suffolk,East of England,United Kingdom,51.7892,-0.4075,A,49,county_checked_coordinate_pending,regional_seed_point,9,6,4,4,6,4,8,8,7,5,5,5,8,4,8,9,9,4,8,5,5,7,9
+50,Long Melford,Long Melford,Suffolk,East of England,United Kingdom,52.2518,0.2,A,50,county_checked_coordinate_pending,regional_seed_point,8,6,7,5,6,9,9,7,4,9,4,8,8,9,5,8,5,4,8,5,6,7,6
+51,Norwich,Norwich,Norfolk,East of England,United Kingdom,53.0762,-0.515,A,51,county_checked_coordinate_pending,regional_seed_point,4,7,9,5,5,7,6,6,4,6,4,5,8,6,4,6,5,5,8,6,5,6,4
+52,Holt,Holt,Norfolk,East of England,United Kingdom,52.718,1.685,A,52,county_checked_coordinate_pending,regional_seed_point,8,5,8,8,6,7,9,7,6,5,8,6,5,5,5,4,4,4,4,7,8,6,8
+53,Burnham Market,Burnham Market,Norfolk,East of England,United Kingdom,52.4066,1.7675,A,53,county_checked_coordinate_pending,regional_seed_point,6,5,4,9,8,5,9,7,8,5,5,6,8,8,6,9,4,7,7,7,4,5,9
+54,Wells-next-the-Sea,Wells-next-the-Sea,Norfolk,East of England,United Kingdom,52.8062,1.27,A,54,county_checked_coordinate_pending,regional_seed_point,6,9,6,5,5,6,9,5,6,6,8,9,7,8,4,4,4,7,7,9,5,7,4
+55,Sheringham,Sheringham,Norfolk,East of England,United Kingdom,51.6164,-0.2825,A,55,county_checked_coordinate_pending,regional_seed_point,8,9,9,7,9,7,7,8,5,5,8,6,8,7,8,6,7,9,7,5,6,6,5
+56,Aylsham,Aylsham,Norfolk,East of England,United Kingdom,53.0834,1.4575,A,56,county_checked_coordinate_pending,regional_seed_point,5,4,8,5,9,4,7,8,5,5,4,8,4,4,9,6,4,5,7,9,5,7,8
+57,Wymondham,Wymondham,Norfolk,East of England,United Kingdom,52.8296,0.51,A,57,county_checked_coordinate_pending,regional_seed_point,9,7,6,4,5,5,4,6,9,5,5,6,9,9,5,6,6,9,6,8,6,7,6
+58,Winchester,Winchester,Hampshire,South East,United Kingdom,51.063,-1.308,A,58,core_checked,rounded_town_centre,7,4,4,5,5,7,4,8,5,6,6,6,7,7,5,6,7,6,7,9,7,7,9
+59,Petersfield,Petersfield,Hampshire,South East,United Kingdom,50.602,-1.5925,A,59,county_checked_coordinate_pending,regional_seed_point,7,6,7,7,5,7,5,8,7,9,8,6,7,4,8,8,6,8,4,8,5,4,7
+60,Alresford,Alresford,Hampshire,South East,United Kingdom,51.376,-0.995,A,60,county_checked_coordinate_pending,regional_seed_point,5,8,4,7,6,8,7,9,6,8,5,4,4,4,8,7,4,6,7,6,5,6,6
+61,Stockbridge,Stockbridge,Hampshire,South East,United Kingdom,51.5218,-1.275,A,61,county_checked_coordinate_pending,regional_seed_point,9,7,8,4,5,5,7,7,9,7,7,6,6,9,4,4,9,4,9,6,6,6,7
+62,Lymington,Lymington,Hampshire,South East,United Kingdom,50.758,-1.542,A,62,core_checked,rounded_town_centre,6,9,5,6,7,9,4,4,9,5,6,6,8,6,7,6,8,5,7,6,7,7,5
+63,Romsey,Romsey,Hampshire,South East,United Kingdom,51.9448,-1.0375,A,63,county_checked_coordinate_pending,regional_seed_point,7,7,8,8,8,5,8,9,8,7,5,5,8,6,4,7,7,9,6,4,7,8,8
+64,Ringwood,Ringwood,Hampshire,South East,United Kingdom,50.4688,-0.29,A,64,county_checked_coordinate_pending,regional_seed_point,4,8,4,7,9,8,6,4,7,9,4,9,7,8,5,9,6,4,5,8,7,4,6
+65,Fordingbridge,Fordingbridge,Hampshire,South East,United Kingdom,51.4912,-1.775,A,65,county_checked_coordinate_pending,regional_seed_point,7,4,9,9,7,5,5,4,4,9,7,5,6,5,6,7,7,7,7,5,9,5,4
+66,Farnham,Farnham,Surrey,South East,United Kingdom,50.8324,-0.9,A,66,county_checked_coordinate_pending,regional_seed_point,4,5,9,6,6,9,7,4,8,8,6,8,4,8,9,9,7,6,9,5,4,8,6
+67,Guildford,Guildford,Surrey,South East,United Kingdom,51.673,0.0,A,67,county_checked_coordinate_pending,regional_seed_point,9,6,9,4,7,4,5,7,9,5,8,6,8,8,5,7,8,4,8,5,4,6,7
+68,Godalming,Godalming,Surrey,South East,United Kingdom,51.4066,-1.005,A,68,county_checked_coordinate_pending,regional_seed_point,6,9,7,5,9,4,9,7,5,6,7,8,4,7,8,7,7,9,9,7,6,6,7
+69,Haslemere,Haslemere,Surrey,South East,United Kingdom,50.5624,-0.2525,A,69,county_checked_coordinate_pending,regional_seed_point,7,9,6,9,7,7,8,5,4,4,4,4,7,9,7,7,9,7,5,5,7,5,8
+70,Reigate,Reigate,Surrey,South East,United Kingdom,51.511,-1.035,A,70,county_checked_coordinate_pending,regional_seed_point,7,4,6,5,7,4,9,6,7,8,6,7,5,9,7,7,4,7,8,6,5,7,6
+71,Dorking,Dorking,Surrey,South East,United Kingdom,50.8252,-1.66,A,71,county_checked_coordinate_pending,regional_seed_point,6,6,7,6,5,4,6,7,7,9,7,9,4,7,4,4,8,7,5,4,5,8,4
+72,Cobham,Cobham,Surrey,South East,United Kingdom,50.9458,-0.445,A,72,county_checked_coordinate_pending,regional_seed_point,6,7,4,5,8,4,4,7,7,6,9,4,9,9,7,6,6,5,8,4,4,6,5
+73,Leatherhead,Leatherhead,Surrey,South East,United Kingdom,51.1222,-1.83,A,73,county_checked_coordinate_pending,regional_seed_point,4,4,4,7,8,6,4,6,6,4,7,5,4,9,9,6,6,4,4,6,4,9,5
+74,Chichester,Chichester,West Sussex,South East,United Kingdom,51.6622,-0.715,A,74,county_checked_coordinate_pending,regional_seed_point,9,6,6,4,7,4,4,5,9,6,5,9,9,6,7,9,7,4,7,5,6,4,7
+75,Petworth,Petworth,West Sussex,South East,United Kingdom,51.1978,-1.87,A,75,county_checked_coordinate_pending,regional_seed_point,6,8,8,6,4,7,9,8,8,4,7,6,9,5,9,7,5,7,7,7,9,9,8
+76,Midhurst,Midhurst,West Sussex,South East,United Kingdom,50.9116,-0.38,A,76,county_checked_coordinate_pending,regional_seed_point,9,4,7,6,4,8,8,6,5,7,6,5,7,4,8,7,4,9,8,6,5,6,8
+77,Arundel,Arundel,West Sussex,South East,United Kingdom,51.0826,-1.805,A,77,county_checked_coordinate_pending,regional_seed_point,6,4,5,7,4,6,4,9,7,4,8,9,7,9,8,5,4,7,4,5,4,9,7
+78,Horsham,Horsham,West Sussex,South East,United Kingdom,51.6082,-0.5525,A,78,county_checked_coordinate_pending,regional_seed_point,9,4,7,8,6,8,7,5,9,8,4,6,4,4,6,7,9,5,6,9,4,8,6
+79,Steyning,Steyning,West Sussex,South East,United Kingdom,51.7198,-0.4575,A,79,county_checked_coordinate_pending,regional_seed_point,6,7,7,8,7,7,5,8,6,9,9,9,7,7,7,4,8,7,6,9,7,8,6
+80,Lewes,Lewes,East Sussex,South East,United Kingdom,50.4472,-0.4625,A,80,county_checked_coordinate_pending,regional_seed_point,4,9,9,4,4,4,6,6,8,7,5,6,4,4,8,5,4,4,9,4,6,9,7
+81,Rye,Rye,East Sussex,South East,United Kingdom,51.9106,-0.8875,A,81,county_checked_coordinate_pending,regional_seed_point,6,8,9,8,6,7,9,6,9,4,8,5,6,8,6,5,5,5,6,8,4,6,5
+82,Battle,Battle,East Sussex,South East,United Kingdom,51.655,-1.31,A,82,county_checked_coordinate_pending,regional_seed_point,5,4,9,5,5,5,8,9,5,7,6,7,4,8,6,5,5,7,7,4,8,7,8
+83,Seaford,Seaford,East Sussex,South East,United Kingdom,51.7558,-1.4525,A,83,county_checked_coordinate_pending,regional_seed_point,8,8,7,5,6,7,5,7,9,8,5,8,5,5,5,8,6,6,8,9,6,9,8
+84,Uckfield,Uckfield,East Sussex,South East,United Kingdom,51.6154,-0.585,A,84,county_checked_coordinate_pending,regional_seed_point,5,4,9,8,7,8,6,5,9,8,8,5,7,4,4,5,5,4,5,4,5,8,5
+85,Crowborough,Crowborough,East Sussex,South East,United Kingdom,50.6848,-0.9475,A,85,county_checked_coordinate_pending,regional_seed_point,7,7,7,8,6,8,8,8,8,6,4,9,9,5,4,7,6,7,8,5,5,5,9
+86,Tunbridge Wells,Tunbridge Wells,Kent,South East,United Kingdom,51.2068,-1.085,A,86,county_checked_coordinate_pending,regional_seed_point,5,7,7,7,9,5,6,8,6,5,9,7,5,4,7,5,6,4,9,6,7,4,6
+87,Sevenoaks,Sevenoaks,Kent,South East,United Kingdom,51.5236,0.1,A,87,county_checked_coordinate_pending,regional_seed_point,8,8,6,5,9,9,4,6,4,4,5,4,5,9,6,4,7,7,8,6,9,8,6
+88,Canterbury,Canterbury,Kent,South East,United Kingdom,51.28,1.079,A,88,core_checked,rounded_town_centre,5,4,6,8,8,8,5,4,7,7,8,7,5,7,9,8,9,6,6,4,8,6,6
+89,Whitstable,Whitstable,Kent,South East,United Kingdom,51.9646,-1.7,A,89,county_checked_coordinate_pending,regional_seed_point,8,7,6,5,5,9,7,4,5,6,7,8,7,8,9,8,6,5,9,6,8,5,7
+90,Deal,Deal,Kent,South East,United Kingdom,51.4048,-0.26,A,90,county_checked_coordinate_pending,regional_seed_point,5,9,9,6,5,8,9,5,9,4,4,9,8,8,9,6,5,7,4,7,7,8,8
+91,Sandwich,Sandwich,Kent,South East,United Kingdom,51.8638,-1.09,A,91,county_checked_coordinate_pending,regional_seed_point,7,8,9,4,8,6,7,9,9,4,9,6,9,4,9,5,6,5,8,7,7,4,7
+92,Broadstairs,Broadstairs,Kent,South East,United Kingdom,51.6712,-0.23,A,92,county_checked_coordinate_pending,regional_seed_point,5,9,8,7,6,8,4,9,4,7,8,4,8,5,7,4,4,8,8,4,5,8,7
+93,Faversham,Faversham,Kent,South East,United Kingdom,50.5462,-0.3575,A,93,county_checked_coordinate_pending,regional_seed_point,4,5,8,8,7,4,7,6,5,8,9,5,9,8,5,8,8,5,8,9,4,8,7
+94,Tenterden,Tenterden,Kent,South East,United Kingdom,51.9736,-1.6625,A,94,county_checked_coordinate_pending,regional_seed_point,4,9,8,5,9,4,7,7,7,6,5,7,5,9,5,7,7,8,6,5,4,9,5
+95,Bath,Bath,Somerset,South West,United Kingdom,51.381,-2.359,A,95,core_checked,rounded_town_centre,6,6,9,7,9,5,4,6,8,9,7,8,5,8,7,7,8,7,8,9,5,6,8
+96,Wells,Wells,Somerset,South West,United Kingdom,51.209,-2.647,A,96,core_checked,rounded_town_centre,8,8,4,5,9,7,7,7,9,8,7,5,6,4,6,8,8,7,6,8,5,4,8
+97,Frome,Frome,Somerset,South West,United Kingdom,50.4978,-3.6175,A,97,county_checked_coordinate_pending,regional_seed_point,4,5,7,5,6,5,4,7,8,7,7,8,8,5,8,8,7,9,4,8,4,9,9
+98,Bruton,Bruton,Somerset,South West,United Kingdom,51.2358,-3.0625,A,98,county_checked_coordinate_pending,regional_seed_point,8,4,8,5,7,7,4,5,8,5,6,7,7,7,6,9,7,4,6,6,9,9,9
+99,Taunton,Taunton,Somerset,South West,United Kingdom,50.955,-2.6225,A,99,county_checked_coordinate_pending,regional_seed_point,5,4,5,4,7,9,6,8,4,6,7,6,4,8,6,9,9,8,9,6,7,4,5
+100,Clevedon,Clevedon,Somerset,South West,United Kingdom,50.4366,-2.8725,A,100,county_checked_coordinate_pending,regional_seed_point,7,4,8,6,4,7,7,8,6,9,4,7,6,9,9,4,7,4,4,6,4,6,4
+101,Portishead,Portishead,Somerset,South West,United Kingdom,50.6904,-3.705,A,101,county_checked_coordinate_pending,regional_seed_point,7,8,7,6,6,6,8,9,6,4,4,4,6,6,5,6,8,8,5,9,5,9,4
+102,Sherborne,Sherborne,Dorset,South West,United Kingdom,50.948,-2.517,A,102,core_checked,rounded_town_centre,9,9,9,4,6,5,4,4,7,5,6,9,4,9,4,4,6,5,4,5,5,4,4
+103,Lyme Regis,Lyme Regis,Dorset,South West,United Kingdom,50.9442,-3.6225,A,103,county_checked_coordinate_pending,regional_seed_point,6,6,4,9,9,6,4,5,4,4,6,7,4,9,9,5,5,8,7,8,5,6,5
+104,Bridport,Bridport,Dorset,South West,United Kingdom,50.874,-3.1575,A,104,county_checked_coordinate_pending,regional_seed_point,9,4,5,4,7,8,4,6,5,6,5,7,4,5,4,5,9,8,4,7,8,7,7
+105,Dorchester,Dorchester,Dorset,South West,United Kingdom,51.396,-1.955,A,105,county_checked_coordinate_pending,regional_seed_point,4,8,6,4,8,8,7,9,6,4,9,9,7,9,9,4,8,6,7,5,7,8,9
+106,Wimborne Minster,Wimborne Minster,Dorset,South West,United Kingdom,51.8172,-2.125,A,106,county_checked_coordinate_pending,regional_seed_point,6,8,8,9,6,8,8,4,5,8,6,5,4,9,9,6,7,8,5,5,9,4,8
+107,Shaftesbury,Shaftesbury,Dorset,South West,United Kingdom,50.1054,-3.36,A,107,county_checked_coordinate_pending,regional_seed_point,7,9,5,5,6,4,7,4,9,9,6,9,8,8,5,5,8,7,5,4,6,5,5
+108,Wareham,Wareham,Dorset,South West,United Kingdom,50.8632,-3.7325,A,108,county_checked_coordinate_pending,regional_seed_point,5,4,7,8,5,8,7,5,5,9,9,6,9,7,7,6,9,6,6,6,5,8,6
+109,Salisbury,Salisbury,Wiltshire,South West,United Kingdom,51.5094,-3.175,A,109,county_checked_coordinate_pending,regional_seed_point,8,8,4,6,8,5,9,4,8,9,5,8,7,5,6,8,9,6,8,5,5,7,9
+110,Marlborough,Marlborough,Wiltshire,South West,United Kingdom,51.7398,-3.8025,A,110,county_checked_coordinate_pending,regional_seed_point,6,6,4,5,6,8,5,7,6,5,6,8,9,9,8,9,9,6,8,7,5,7,4
+111,Devizes,Devizes,Wiltshire,South West,United Kingdom,51.6858,-4.285,A,111,county_checked_coordinate_pending,regional_seed_point,4,7,4,6,4,4,9,5,8,9,4,7,9,7,7,6,6,4,6,5,8,9,7
+112,Bradford-on-Avon,Bradford-on-Avon,Wiltshire,South West,United Kingdom,50.8902,-3.665,A,112,county_checked_coordinate_pending,regional_seed_point,9,5,5,6,6,6,9,5,8,6,4,6,9,5,5,8,7,8,9,4,5,6,6
+113,Malmesbury,Malmesbury,Wiltshire,South West,United Kingdom,51.0324,-2.4075,A,113,county_checked_coordinate_pending,regional_seed_point,7,6,6,5,4,6,9,4,8,7,7,4,5,8,8,8,9,5,4,6,6,7,5
+114,Corsham,Corsham,Wiltshire,South West,United Kingdom,51.7056,-2.8025,A,114,county_checked_coordinate_pending,regional_seed_point,6,4,9,8,7,8,4,7,7,5,5,5,8,4,5,5,4,9,9,7,8,5,4
+115,Cirencester,Cirencester,Gloucestershire,South West,United Kingdom,50.1702,-3.335,A,115,county_checked_coordinate_pending,regional_seed_point,4,8,5,9,9,6,9,7,7,6,4,5,6,5,8,9,5,4,4,7,6,8,8
+116,Tetbury,Tetbury,Gloucestershire,South West,United Kingdom,51.7794,-4.3,A,116,county_checked_coordinate_pending,regional_seed_point,4,9,6,4,9,8,8,6,7,7,5,5,4,6,9,9,5,6,5,7,7,6,5
+117,Stroud,Stroud,Gloucestershire,South West,United Kingdom,50.19,-2.36,A,117,county_checked_coordinate_pending,regional_seed_point,8,6,9,8,4,8,7,6,6,6,7,7,5,6,5,7,5,4,5,8,5,9,4
+118,Cheltenham,Cheltenham,Gloucestershire,South West,United Kingdom,50.4294,-2.5075,A,118,county_checked_coordinate_pending,regional_seed_point,9,7,7,9,7,7,4,8,8,7,9,6,6,6,5,9,9,7,8,5,9,4,7
+119,Painswick,Painswick,Gloucestershire,South West,United Kingdom,50.5842,-2.7525,A,119,county_checked_coordinate_pending,regional_seed_point,9,6,7,5,4,5,4,8,7,8,5,9,7,5,8,8,5,7,6,7,6,9,9
+120,Stow-on-the-Wold,Stow-on-the-Wold,Gloucestershire,South West,United Kingdom,51.8136,-2.125,A,120,county_checked_coordinate_pending,regional_seed_point,9,9,4,6,9,5,6,4,4,5,8,7,8,5,7,6,4,5,6,5,6,6,4
+121,Moreton-in-Marsh,Moreton-in-Marsh,Gloucestershire,South West,United Kingdom,50.9316,-3.975,B,121,county_checked_coordinate_pending,regional_seed_point,7,5,4,6,5,8,7,8,9,6,9,4,4,8,7,4,5,8,7,5,9,7,7
+122,Totnes,Totnes,Devon,South West,United Kingdom,51.7722,-3.37,B,122,county_checked_coordinate_pending,regional_seed_point,8,4,5,8,5,4,6,7,6,5,7,6,5,7,6,4,7,5,5,4,7,7,7
+123,Dartmouth,Dartmouth,Devon,South West,United Kingdom,50.1018,-2.6625,B,123,county_checked_coordinate_pending,regional_seed_point,4,7,9,6,8,9,5,8,9,6,7,4,7,4,6,9,7,5,6,5,8,8,5
+124,Salcombe,Salcombe,Devon,South West,United Kingdom,50.415,-4.19,B,124,county_checked_coordinate_pending,regional_seed_point,7,8,7,4,8,7,5,7,6,8,6,8,8,8,8,6,7,8,7,4,5,5,4
+125,Sidmouth,Sidmouth,Devon,South West,United Kingdom,51.63,-2.2975,B,125,county_checked_coordinate_pending,regional_seed_point,8,5,9,5,7,7,8,4,9,6,9,6,7,7,5,4,9,6,5,6,7,9,8
+126,Tavistock,Tavistock,Devon,South West,United Kingdom,50.9766,-2.7125,B,126,county_checked_coordinate_pending,regional_seed_point,5,9,9,5,9,6,4,6,4,9,7,5,8,7,5,6,7,4,9,6,4,5,7
+127,Ashburton,Ashburton,Devon,South West,United Kingdom,51.7326,-2.2275,B,127,county_checked_coordinate_pending,regional_seed_point,4,4,8,9,9,4,9,5,8,4,6,9,8,6,6,9,9,6,6,7,5,7,5
+128,Exeter,Exeter,Devon,South West,United Kingdom,50.2116,-2.385,B,128,county_checked_coordinate_pending,regional_seed_point,4,5,8,9,8,7,4,8,5,7,5,7,6,8,8,8,8,9,6,9,8,4,4
+129,Topsham,Topsham,Devon,South West,United Kingdom,51.2952,-2.9275,B,129,county_checked_coordinate_pending,regional_seed_point,4,7,8,9,5,8,8,8,7,5,8,9,8,7,6,9,5,4,6,8,5,8,9
+130,Budleigh Salterton,Budleigh Salterton,Devon,South West,United Kingdom,50.8128,-3.7025,B,130,county_checked_coordinate_pending,regional_seed_point,4,5,4,6,9,8,8,4,8,5,7,4,7,8,8,7,4,5,8,7,5,8,4
+131,Fowey,Fowey,Cornwall,South West,United Kingdom,50.337,-4.636,B,131,core_checked,rounded_town_centre,9,4,7,6,4,8,4,7,8,9,6,6,6,8,4,6,9,4,9,8,9,7,7
+132,Padstow,Padstow,Cornwall,South West,United Kingdom,50.2242,-2.6875,B,132,county_checked_coordinate_pending,regional_seed_point,4,8,8,9,4,9,8,8,6,7,6,9,9,4,6,8,7,8,4,4,9,4,9
+133,Falmouth,Falmouth,Cornwall,South West,United Kingdom,51.2304,-3.2975,B,133,county_checked_coordinate_pending,regional_seed_point,6,6,6,5,6,5,7,5,6,6,6,4,5,5,8,8,5,7,5,5,6,8,7
+134,Truro,Truro,Cornwall,South West,United Kingdom,51.0954,-2.995,B,134,county_checked_coordinate_pending,regional_seed_point,4,8,6,4,6,6,4,4,7,4,8,7,7,5,9,4,6,6,8,9,9,8,7
+135,Penzance,Penzance,Cornwall,South West,United Kingdom,50.8434,-2.4125,B,135,county_checked_coordinate_pending,regional_seed_point,7,4,8,4,5,5,5,4,5,8,5,8,9,5,8,6,4,4,9,7,7,9,4
+136,St Ives (Cornwall),St Ives,Cornwall,South West,United Kingdom,51.342,-3.4325,B,136,county_checked_coordinate_pending,regional_seed_point,8,9,6,6,9,9,5,7,5,5,5,6,4,9,7,5,5,8,9,7,5,9,6
+137,Looe,Looe,Cornwall,South West,United Kingdom,51.8658,-3.865,B,137,county_checked_coordinate_pending,regional_seed_point,9,5,6,6,7,9,7,6,9,5,8,9,6,7,9,6,4,4,9,6,9,9,4
+138,Bude,Bude,Cornwall,South West,United Kingdom,50.4114,-3.4675,B,138,county_checked_coordinate_pending,regional_seed_point,4,6,5,5,5,8,8,9,6,7,5,8,4,6,8,8,4,6,8,6,4,4,8
+139,Stamford,Stamford,Lincolnshire,Midlands,United Kingdom,52.651,-0.481,B,139,core_checked,rounded_town_centre,4,9,9,9,6,4,9,9,4,9,4,8,9,4,6,5,8,6,6,8,5,5,8
+140,Lincoln,Lincoln,Lincolnshire,Midlands,United Kingdom,51.9458,-0.7925,B,140,county_checked_coordinate_pending,regional_seed_point,6,7,6,9,4,4,6,4,8,8,9,9,7,5,5,4,4,4,7,5,6,4,8
+141,Louth,Louth,Lincolnshire,Midlands,United Kingdom,51.8378,-1.68,B,141,county_checked_coordinate_pending,regional_seed_point,9,4,8,8,8,6,5,8,8,8,8,9,8,6,5,4,7,4,8,9,6,7,6
+142,Market Rasen,Market Rasen,Lincolnshire,Midlands,United Kingdom,53.2994,-0.7625,B,142,county_checked_coordinate_pending,regional_seed_point,8,4,9,9,5,5,9,4,5,7,7,9,8,7,4,7,8,7,7,6,5,7,5
+143,Oakham,Oakham,Rutland,Midlands,United Kingdom,52.6946,-2.0125,B,143,county_checked_coordinate_pending,regional_seed_point,6,8,4,8,9,5,5,9,9,5,7,4,9,7,5,8,8,6,9,5,6,4,5
+144,Uppingham,Uppingham,Rutland,Midlands,United Kingdom,53.384,-1.1725,B,144,county_checked_coordinate_pending,regional_seed_point,7,9,9,4,5,8,8,9,7,7,5,5,5,7,4,9,9,8,9,7,9,9,8
+145,Bakewell,Bakewell,Derbyshire,Midlands,United Kingdom,52.2806,-1.645,B,145,county_checked_coordinate_pending,regional_seed_point,4,9,9,6,5,4,7,5,8,8,7,7,7,4,6,6,4,9,5,5,6,9,6
+146,Buxton,Buxton,Derbyshire,Midlands,United Kingdom,53.2454,-0.4975,B,146,county_checked_coordinate_pending,regional_seed_point,7,9,7,4,8,5,9,8,5,8,4,4,4,5,5,5,8,9,5,5,5,8,8
+147,Ashbourne,Ashbourne,Derbyshire,Midlands,United Kingdom,52.0718,-2.08,B,147,county_checked_coordinate_pending,regional_seed_point,7,7,8,8,8,5,6,4,5,5,7,5,6,4,7,9,8,6,9,5,9,8,6
+148,Matlock,Matlock,Derbyshire,Midlands,United Kingdom,52.8134,-2.135,B,148,county_checked_coordinate_pending,regional_seed_point,6,4,4,7,8,8,5,8,9,5,5,9,9,8,9,5,4,8,7,7,4,5,6
+149,Wirksworth,Wirksworth,Derbyshire,Midlands,United Kingdom,53.3714,-1.415,B,149,county_checked_coordinate_pending,regional_seed_point,5,5,6,9,8,5,6,8,8,7,6,5,8,4,4,4,9,9,4,8,6,8,5
+150,Belper,Belper,Derbyshire,Midlands,United Kingdom,53.1338,-0.4175,B,150,county_checked_coordinate_pending,regional_seed_point,6,8,5,4,7,7,4,6,7,9,5,4,8,9,8,5,7,9,8,9,9,5,7
+151,Stratford-upon-Avon,Stratford-upon-Avon,Warwickshire,Midlands,United Kingdom,52.5416,-0.855,B,151,county_checked_coordinate_pending,regional_seed_point,5,8,5,7,6,9,9,4,5,7,9,4,8,9,8,8,6,9,7,6,8,8,8
+152,Leamington Spa,Leamington Spa,Warwickshire,Midlands,United Kingdom,52.0178,-0.7,B,152,county_checked_coordinate_pending,regional_seed_point,6,4,5,8,8,7,4,9,4,6,8,5,7,4,5,7,6,9,5,8,4,8,4
+153,Warwick,Warwick,Warwickshire,Midlands,United Kingdom,52.1222,-2.1475,B,153,county_checked_coordinate_pending,regional_seed_point,9,7,6,7,4,5,4,5,9,6,7,9,7,8,8,5,4,6,7,5,6,4,5
+154,Kenilworth,Kenilworth,Warwickshire,Midlands,United Kingdom,53.3894,-2.265,B,154,county_checked_coordinate_pending,regional_seed_point,6,8,8,6,7,7,6,6,5,9,6,4,8,4,8,5,6,5,6,4,7,5,7
+155,Alcester,Alcester,Warwickshire,Midlands,United Kingdom,52.394,-1.0725,B,155,county_checked_coordinate_pending,regional_seed_point,8,7,8,7,7,5,7,9,8,6,7,6,5,8,8,6,7,9,5,9,8,6,9
+156,Ludlow,Ludlow,Shropshire,Midlands,United Kingdom,52.368,-2.714,B,156,core_checked,rounded_town_centre,6,8,5,6,6,5,8,8,8,4,7,5,7,5,5,6,6,5,9,5,8,6,4
+157,Shrewsbury,Shrewsbury,Shropshire,Midlands,United Kingdom,52.0232,-1.655,B,157,county_checked_coordinate_pending,regional_seed_point,8,4,5,4,5,4,4,8,7,7,8,7,4,8,9,5,5,4,6,8,8,5,6
+158,Bridgnorth,Bridgnorth,Shropshire,Midlands,United Kingdom,52.6838,-1.99,B,158,county_checked_coordinate_pending,regional_seed_point,4,8,7,8,5,6,9,8,4,9,7,4,8,9,4,7,5,9,8,6,9,9,6
+159,Much Wenlock,Much Wenlock,Shropshire,Midlands,United Kingdom,53.366,-1.8775,B,159,county_checked_coordinate_pending,regional_seed_point,9,6,6,6,9,7,5,9,9,6,5,5,7,9,5,7,4,5,5,9,7,4,9
+160,Church Stretton,Church Stretton,Shropshire,Midlands,United Kingdom,52.3112,-1.325,B,160,county_checked_coordinate_pending,regional_seed_point,8,8,5,4,7,8,5,7,5,4,4,8,8,8,8,8,9,6,4,8,7,7,5
+161,Oswestry,Oswestry,Shropshire,Midlands,United Kingdom,53.3192,-2.055,B,161,county_checked_coordinate_pending,regional_seed_point,5,5,7,6,8,7,4,5,7,6,7,6,7,8,7,4,8,5,5,9,6,9,5
+162,Hereford,Hereford,Herefordshire,Midlands,United Kingdom,52.241,-1.1775,B,162,county_checked_coordinate_pending,regional_seed_point,4,4,7,6,5,4,9,8,4,7,7,4,7,6,6,7,8,5,6,5,6,7,9
+163,Ledbury,Ledbury,Herefordshire,Midlands,United Kingdom,52.2986,-2.0925,B,163,county_checked_coordinate_pending,regional_seed_point,4,8,6,9,7,7,8,6,4,8,7,9,5,8,7,8,7,8,7,6,9,6,7
+164,Ross-on-Wye,Ross-on-Wye,Herefordshire,Midlands,United Kingdom,53.42,-0.99,B,164,county_checked_coordinate_pending,regional_seed_point,9,5,4,6,7,7,5,9,6,7,6,5,8,8,4,5,5,7,6,5,5,4,6
+165,Leominster,Leominster,Herefordshire,Midlands,United Kingdom,52.9358,-2.6875,B,165,county_checked_coordinate_pending,regional_seed_point,9,7,5,5,9,9,8,9,8,8,9,9,9,7,7,4,8,5,8,9,5,7,7
+166,Harrogate,Harrogate,North Yorkshire,North,United Kingdom,53.992,-1.542,B,166,core_checked,rounded_town_centre,4,7,5,6,7,7,8,5,7,7,7,7,7,9,6,8,4,9,8,8,7,7,9
+167,York,York,North Yorkshire,North,United Kingdom,53.959,-1.082,B,167,core_checked,rounded_town_centre,9,7,8,8,8,5,9,5,8,4,4,4,8,6,8,6,7,8,8,7,9,9,8
+168,Ripon,Ripon,North Yorkshire,North,United Kingdom,53.9848,-1.3775,B,168,county_checked_coordinate_pending,regional_seed_point,5,4,9,8,5,5,5,8,4,6,6,6,5,9,5,8,8,7,9,6,4,9,8
+169,Richmond,Richmond,North Yorkshire,North,United Kingdom,54.1846,-1.9575,B,169,county_checked_coordinate_pending,regional_seed_point,7,5,7,7,4,8,6,5,5,4,8,8,5,5,6,9,4,9,6,5,8,5,6
+170,Skipton,Skipton,North Yorkshire,North,United Kingdom,54.8794,-1.145,B,170,county_checked_coordinate_pending,regional_seed_point,9,6,7,4,8,5,5,9,8,9,9,8,5,9,8,8,9,6,6,4,6,6,7
+171,Helmsley,Helmsley,North Yorkshire,North,United Kingdom,53.9308,-1.9925,B,171,county_checked_coordinate_pending,regional_seed_point,6,7,8,5,9,5,6,9,7,7,9,8,6,7,9,6,6,5,9,5,9,7,9
+172,Knaresborough,Knaresborough,North Yorkshire,North,United Kingdom,54.685,-1.7225,B,172,county_checked_coordinate_pending,regional_seed_point,9,7,8,4,7,6,4,5,6,8,6,4,4,5,7,6,8,4,6,5,5,7,5
+173,Malton,Malton,North Yorkshire,North,United Kingdom,53.2702,-2.4525,B,173,county_checked_coordinate_pending,regional_seed_point,6,6,8,4,6,9,4,9,8,6,5,8,7,7,6,6,6,8,6,9,4,5,4
+174,Whitby,Whitby,North Yorkshire,North,United Kingdom,54.19,-1.7175,B,174,county_checked_coordinate_pending,regional_seed_point,6,4,5,4,8,7,4,7,7,6,8,6,6,5,9,7,7,9,9,8,9,4,9
+175,Settle,Settle,North Yorkshire,North,United Kingdom,53.3584,-3.15,B,175,county_checked_coordinate_pending,regional_seed_point,6,4,4,9,6,7,7,9,5,9,6,9,6,5,5,6,4,4,7,5,8,8,4
+176,Ilkley,Ilkley,West Yorkshire,North,United Kingdom,54.5608,-2.74,B,176,county_checked_coordinate_pending,regional_seed_point,9,7,5,9,5,4,7,7,7,9,9,5,5,7,4,5,6,9,5,6,7,7,5
+177,Hebden Bridge,Hebden Bridge,West Yorkshire,North,United Kingdom,54.8218,-1.2625,B,177,county_checked_coordinate_pending,regional_seed_point,5,7,7,5,4,4,9,9,5,5,6,9,4,4,9,8,9,4,7,9,7,9,9
+178,Holmfirth,Holmfirth,West Yorkshire,North,United Kingdom,54.9856,-2.7775,B,178,county_checked_coordinate_pending,regional_seed_point,6,5,4,7,4,7,8,8,5,7,8,8,8,7,4,4,9,8,4,8,5,6,7
+179,Otley,Otley,West Yorkshire,North,United Kingdom,54.8668,-1.2775,B,179,county_checked_coordinate_pending,regional_seed_point,7,6,7,7,6,9,5,7,9,7,9,4,7,9,5,9,9,8,8,6,7,9,6
+180,Saltaire,Saltaire,West Yorkshire,North,United Kingdom,54.0694,-0.7375,B,180,county_checked_coordinate_pending,regional_seed_point,8,8,9,4,7,7,9,6,5,4,8,6,9,5,8,8,9,4,9,9,9,6,5
+181,Haworth,Haworth,West Yorkshire,North,United Kingdom,54.6454,-0.76,B,181,county_checked_coordinate_pending,regional_seed_point,4,7,6,8,4,7,7,7,8,4,6,6,6,6,6,8,5,7,4,8,4,5,6
+182,Beverley,Beverley,East Riding of Yorkshire,North,United Kingdom,54.3826,-1.0175,B,182,county_checked_coordinate_pending,regional_seed_point,7,7,5,4,9,4,5,5,4,8,7,8,8,6,4,9,4,7,6,8,4,5,5
+183,Pocklington,Pocklington,East Riding of Yorkshire,North,United Kingdom,54.568,-2.33,B,183,county_checked_coordinate_pending,regional_seed_point,7,5,8,5,7,4,5,5,6,9,6,4,7,7,7,7,4,4,5,7,7,6,4
+184,Driffield,Driffield,East Riding of Yorkshire,North,United Kingdom,54.5662,-2.6775,B,184,county_checked_coordinate_pending,regional_seed_point,5,6,5,7,9,5,4,4,6,5,4,8,5,8,6,9,8,9,5,5,6,7,4
+185,Alnwick,Alnwick,Northumberland,North,United Kingdom,54.3268,-0.7375,B,185,county_checked_coordinate_pending,regional_seed_point,8,7,8,8,5,6,4,6,8,7,7,4,8,7,4,8,8,8,7,9,6,9,8
+186,Bamburgh,Bamburgh,Northumberland,North,United Kingdom,53.7562,-2.4425,B,186,county_checked_coordinate_pending,regional_seed_point,8,6,9,4,6,8,9,5,5,8,9,7,8,8,8,4,4,6,7,4,4,5,6
+187,Hexham,Hexham,Northumberland,North,United Kingdom,54.971,-2.102,B,187,core_checked,rounded_town_centre,6,6,8,6,4,7,8,9,5,5,4,6,5,8,7,9,5,6,7,8,4,6,5
+188,Corbridge,Corbridge,Northumberland,North,United Kingdom,53.2684,-1.4825,B,188,county_checked_coordinate_pending,regional_seed_point,6,4,9,8,4,7,8,5,4,4,5,7,7,8,8,5,5,8,4,5,6,7,7
+189,Morpeth,Morpeth,Northumberland,North,United Kingdom,53.3386,-2.6175,B,189,county_checked_coordinate_pending,regional_seed_point,9,5,4,6,5,4,9,9,6,8,4,6,6,8,8,4,5,7,9,8,8,4,8
+190,Berwick-upon-Tweed,Berwick-upon-Tweed,Northumberland,North,United Kingdom,53.2594,-3.1,B,190,county_checked_coordinate_pending,regional_seed_point,4,9,4,4,9,7,5,9,5,4,6,7,8,6,4,5,5,8,4,6,9,8,4
+191,Tynemouth,Tynemouth,Tyne and Wear,North,United Kingdom,54.3862,-1.5025,B,191,county_checked_coordinate_pending,regional_seed_point,6,4,6,7,9,9,7,4,5,8,4,8,9,5,5,8,7,6,9,9,8,7,7
+192,Durham,Durham,County Durham,North,United Kingdom,53.2612,-0.815,B,192,county_checked_coordinate_pending,regional_seed_point,5,8,4,9,5,5,6,4,4,6,8,6,8,8,8,7,4,8,4,6,8,8,5
+193,Kendal,Kendal,Cumbria,North,United Kingdom,54.3736,-0.665,B,193,county_checked_coordinate_pending,regional_seed_point,8,5,6,7,6,7,5,4,7,6,6,4,5,6,6,4,6,7,8,5,4,5,6
+194,Keswick,Keswick,Cumbria,North,United Kingdom,54.601,-3.135,B,194,core_checked,rounded_town_centre,7,5,9,8,5,9,6,4,9,8,4,9,8,7,6,5,7,7,7,9,4,7,5
+195,Kirkby Lonsdale,Kirkby Lonsdale,Cumbria,North,United Kingdom,54.8776,-2.2175,B,195,county_checked_coordinate_pending,regional_seed_point,5,6,7,6,6,6,6,9,7,4,7,6,4,6,6,6,4,9,5,6,7,7,9
+196,Cartmel,Cartmel,Cumbria,North,United Kingdom,53.4556,-1.87,B,196,county_checked_coordinate_pending,regional_seed_point,4,7,5,6,7,7,5,5,7,5,9,5,9,4,4,6,6,7,7,4,8,6,6
+197,Cockermouth,Cockermouth,Cumbria,North,United Kingdom,54.9964,-1.3025,B,197,county_checked_coordinate_pending,regional_seed_point,4,6,5,7,5,8,6,8,7,4,6,5,6,9,9,9,5,5,4,6,6,5,6
+198,Ambleside,Ambleside,Cumbria,North,United Kingdom,54.6832,-1.2725,B,198,county_checked_coordinate_pending,regional_seed_point,6,5,5,6,6,7,5,5,7,5,8,9,5,6,4,9,8,7,7,4,9,5,7
+199,Penrith,Penrith,Cumbria,North,United Kingdom,54.9136,-1.7575,B,199,county_checked_coordinate_pending,regional_seed_point,8,7,8,7,8,7,4,8,7,8,4,7,6,8,7,4,4,4,8,5,8,8,4
+200,Ulverston,Ulverston,Cumbria,North,United Kingdom,53.902,-2.915,B,200,county_checked_coordinate_pending,regional_seed_point,4,4,6,8,5,5,8,8,8,5,4,8,6,5,7,5,5,9,8,6,5,7,6

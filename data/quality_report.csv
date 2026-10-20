@@ -1,0 +1,11 @@
+check_name,result,detail
+exact_count,PASS,200
+unique_display,PASS,200
+unique_business_key,PASS,200
+required_complete,PASS,required
+no_placeholders,PASS,regex
+St Albans,PASS,Hertfordshire
+Wallingford,PASS,Oxfordshire
+Newbury,PASS,Berkshire
+Hungerford,PASS,Berkshire
+valid_ranges,PASS,UK envelope
