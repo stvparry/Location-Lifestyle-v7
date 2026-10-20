@@ -1,33 +1,16 @@
-# Location Lifestyle AI V7
+# Location Lifestyle AI V7.1 Experience Upgrade
 
-A standalone Streamlit package combining personal lifestyle matching, a curated 200-place UK catalogue, Life Network, journey burden, gravity heat maps, comparisons and optional AI conversation.
+Replace `app.py` and `requirements.txt` in the existing V7 repository. Keep the complete V7 `data/` folder unchanged.
 
-## Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+## Corrections
+- Compact gauges with wrapped headings
+- Household profile builder restored
+- Presets plus JSON profile import/export
+- Explicit Remove column for Life Network nodes
+- Minimum Life Network threshold for recommendations
+- Candidate-centred network diagram
+- Journey miles, one-way minutes and monthly burden printed on graph edges
+- Profile text participates in AI context
 
-## Optional AI
-Add these Streamlit secrets:
-```toml
-OPENAI_API_KEY = "..."
-OPENAI_MODEL = "gpt-4.1-mini"
-```
-
-## Units and travel model
-All user-facing distance and speed units are imperial:
-- miles
-- miles per hour
-- minutes per one-way journey
-- hours per month for return journeys
-
-Prototype effective speeds:
-- Car: 35 mph plus 10 minutes
-- Rail: 50 mph plus 25 minutes
-- Mixed: 40 mph plus 20 minutes
-
-These estimates are not live routes, traffic predictions or rail timetables.
-
-## Data status
-The 200 rows are named real settlements with curated county/area assignments. Core candidate and network locations use individually entered rounded town-centre coordinates. Expansion coordinates have a lower precision flag and are excluded from any claim of authoritative routing. `data/quality_report.csv` records the structural checks. Reconciliation to OS Open Names identifiers remains the next authoritative-data step.
+## Candidate-centred diagram
+This is a relative life-network diagram, not a road map. The candidate is fixed at the centre. Network nodes are positioned by their true bearing from the candidate and at a compressed radial distance based on miles. Edge labels show estimated one-way minutes and monthly return-travel hours.
